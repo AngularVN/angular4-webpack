@@ -1,6 +1,23 @@
-# AppWebpack
+# Angular4 with TypeScript and Webpack
+
+[![Paypal](https://img.shields.io/badge/donate-paypal-blue.svg)](https://goo.gl/mgesnb)
+[![Gratipay Team](https://img.shields.io/gratipay/Angular-VN/shields.svg)](https://gratipay.com/Angular-VN)
+
+
+[![Build Status](https://travis-ci.org/AngularVN/angular4-webpack.svg?branch=master)](https://travis-ci.org/AngularVN/angular4-webpack)
+[![Code Climate](https://codeclimate.com/github/AngularVN/angular4-webpack/badges/gpa.svg)](https://codeclimate.com/github/AngularVN/angular4-webpack)
+[![Coverage Status](https://coveralls.io/repos/github/AngularVN/angular4-webpack/badge.svg)](https://coveralls.io/github/AngularVN/angular4-webpack)
+[![dependencies Status](https://david-dm.org/AngularVN/angular4-webpack/status.svg)](https://david-dm.org/AngularVN/angular4-webpack)
+[![devDependencies Status](https://david-dm.org/AngularVN/angular4-webpack/dev-status.svg)](https://david-dm.org/AngularVN/angular4-webpack?type=dev)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+
+Prerequisites
+-------------
+
+> nodejs >= 6
+> npm >= 3
+
 
 ## Development server
 
